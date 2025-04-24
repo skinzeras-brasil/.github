@@ -1,6 +1,5 @@
 # 🔰 LEIA ISSO PRIMEIRO: FAQ da Oficina de CS2 para novatos
 
-
 E aí, pessoal! Fiz esse post pra responder algumas perguntas que tão aparecendo direto aqui no subreddit com o lançamento do CS2. Aquele FAQ antigo [ FAQ Post ] tá ficando desatualizado com a mudança de engine do Source do CS:GO pro Source 2, então vai precisar ser reescrito em algum momento.
 
 [FAQ da Valve sobre acabamentos de armas](https://www.counter-strike.net/workshop/workshopfaq#weapons) pode responder algumas das suas dúvidas, mas algumas perguntas recentes não estão lá, então vou tentar respondê-las aqui.
@@ -25,6 +24,8 @@ Bom, se você não desanimou, a primeira coisa que você deve fazer é ler [o gu
 A resposta simples é que, para ter um bom entendimento de como fazer skins, você deve desenvolver conhecimento em modelagem e texturização 3D, em particular texturização para [PBR (Physically based rendering)](https://www.youtube.com/watch?v=a4dURVZEi3E) usando um fluxo de trabalho de metalicidade-rugosidade. Recomendo aprender 3D em vez de apenas texturização porque o pipeline de arte 3D moderno depende muito da arte 3D. O baking de high poly para low poly é a base sobre a qual muitas ótimas skins são construídas.
 
 Para iniciantes em modelagem 3D, sugiro usar [Blender](https://www.blender.org/), que é gratuito e bem documentado online. [Blender Guru](https://www.youtube.com/@blenderguru) tem uma série popular, mas existem muitos outros canais com guias semelhantes que podem ser mais do seu agrado. Existem outros pacotes de software 3D: se um deles for mais do seu agrado, provavelmente será bom para trabalhar.
+
+[Nosso repositório dos modelos 3D das armas de CS2.](https://github.com/skinzeras-brasil/cs2_w_m_g/blob/main/README.md) Mas se quiser pode baixar direto do site da Valve
 
 Para texturização, eu e a maioria dos outros designers de skins que conheço usamos [Substance 3D Painter](https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/). É o padrão da indústria para artistas de jogos e é de longe o software de texturização mais desenvolvido que conheço. Acredito que a texturização também seja possível usando o Blender, no entanto, o Blender carece da maioria das funcionalidades e recursos de qualidade de vida que você encontrará no Painter. Outros pacotes de texturização, incluindo o 3D-Coat, também foram populares para a criação de skins do CS:GO. O Photoshop é recomendado, embora outros pacotes de edição de imagens como o Affinity Photo ou o GIMP possam oferecer grande parte da mesma funcionalidade.
 
